@@ -1,0 +1,10 @@
+# Dados reais de entrada (contêm CNPJs, fornecedores e valores da Solar)
+*.csv
+*.xlsx
+
+# Saída gerada pelo script
+fechamento_*.xlsx
+
+# Python
+__pycache__/
+*.pyc
